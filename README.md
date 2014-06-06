@@ -130,5 +130,4 @@ required [node.js](http://nodejs.org/) & [bower](http://bower.io/) & [grunt](htt
  * onokumus
 
 ### License
-Copyright (c) 2014 onokumus, contributors.
-Released under the ,  licenses
+Forked from (onokumus) [http://demo.onokumus.com/metis/]
