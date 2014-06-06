@@ -130,4 +130,4 @@ required [node.js](http://nodejs.org/) & [bower](http://bower.io/) & [grunt](htt
  * onokumus
 
 ### License
-Forked from (onokumus) [http://demo.onokumus.com/metis/]
+Forked from [onokumus](http://demo.onokumus.com/metis/)
